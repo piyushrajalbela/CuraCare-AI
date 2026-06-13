@@ -84,6 +84,7 @@ Open [[http://127.0.0.1:7860](https://b9594be72ccb1f8a8b.gradio.live/)] in your 
 | Dataset         | Medical-o1 Reasoning SFT (500 examples)   |
 | Training steps  | 60                                         |
 | Quantisation    | 4-bit (QLoRA)                              |
+| HF model repo   | `priyanshuxsinha/phi2-medical-expert`      |
 
 
 ---
